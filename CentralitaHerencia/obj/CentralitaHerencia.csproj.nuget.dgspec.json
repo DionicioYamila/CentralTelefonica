@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj": {}
+    "C:\\Users\\facu3\\Desktop\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj": {
+    "C:\\Users\\facu3\\Desktop\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
+        "projectUniqueName": "C:\\Users\\facu3\\Desktop\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
         "projectName": "CentralitaHerencia",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\CentralTelefonica\\CentralitaHerencia\\obj\\",
+        "projectPath": "C:\\Users\\facu3\\Desktop\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
+        "packagesPath": "C:\\Users\\facu3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\facu3\\Desktop\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\facu3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
