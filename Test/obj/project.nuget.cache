@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VwE5QUiVGpIirwXj9VFCihy3IYYmpa011jG6uxSuALk0wR3CtdKJU4DZVzUu6ElJGtC5S9Hhj1AWSQvry4hhMw==",
+  "dgSpecHash": "p8pQAjupqmST7FlktYn2B6tlSWYqRze9NTWwJB2Fz04l+hI5uF0d5WgckcRS7ENY202kHBKjeLk6Jq//eqWatw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\facu3\\Desktop\\centralitaDeMierda\\CentralTelefonica\\Test\\Test.csproj",
+  "projectFilePath": "D:\\facultad\\peque\\UnoPititi\\centralitaDeMierda\\CentralTelefonica\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facu3\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

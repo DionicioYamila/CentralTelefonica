@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qljgw/KOsPkSyEbDbxeWnnx8iNbBxnfulSvijFA5kwgqiqC8MnO3NSboG4mL7FVrihgs1qXzWpjGnFHAyYbe1A==",
+  "dgSpecHash": "b7X8G8T4nl83eahukZisPJjdjwne/O5w9QX/HTXOj0L0YGVKRK4/COP5FUSsiDK6JgFHhcZNdYEPQRGNSSQRWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\facu3\\Desktop\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
+  "projectFilePath": "D:\\facultad\\peque\\UnoPititi\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facu3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\facu3\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

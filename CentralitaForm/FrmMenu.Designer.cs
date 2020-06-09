@@ -37,9 +37,10 @@
             // 
             // btnGenerarLlamada
             // 
-            this.btnGenerarLlamada.Location = new System.Drawing.Point(30, 33);
+            this.btnGenerarLlamada.Location = new System.Drawing.Point(45, 51);
+            this.btnGenerarLlamada.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnGenerarLlamada.Name = "btnGenerarLlamada";
-            this.btnGenerarLlamada.Size = new System.Drawing.Size(172, 37);
+            this.btnGenerarLlamada.Size = new System.Drawing.Size(258, 57);
             this.btnGenerarLlamada.TabIndex = 0;
             this.btnGenerarLlamada.Text = "Generar Llamada";
             this.btnGenerarLlamada.UseVisualStyleBackColor = true;
@@ -47,50 +48,56 @@
             // 
             // btnFacturacionTotal
             // 
-            this.btnFacturacionTotal.Location = new System.Drawing.Point(30, 91);
+            this.btnFacturacionTotal.Location = new System.Drawing.Point(45, 140);
+            this.btnFacturacionTotal.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnFacturacionTotal.Name = "btnFacturacionTotal";
-            this.btnFacturacionTotal.Size = new System.Drawing.Size(172, 37);
+            this.btnFacturacionTotal.Size = new System.Drawing.Size(258, 57);
             this.btnFacturacionTotal.TabIndex = 1;
             this.btnFacturacionTotal.Text = "Facturaciòn Total";
             this.btnFacturacionTotal.UseVisualStyleBackColor = true;
             // 
             // btnFacturacionLocal
             // 
-            this.btnFacturacionLocal.Location = new System.Drawing.Point(30, 148);
+            this.btnFacturacionLocal.Location = new System.Drawing.Point(45, 228);
+            this.btnFacturacionLocal.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnFacturacionLocal.Name = "btnFacturacionLocal";
-            this.btnFacturacionLocal.Size = new System.Drawing.Size(172, 37);
+            this.btnFacturacionLocal.Size = new System.Drawing.Size(258, 57);
             this.btnFacturacionLocal.TabIndex = 2;
             this.btnFacturacionLocal.Text = "Facturaciòn Local";
             this.btnFacturacionLocal.UseVisualStyleBackColor = true;
             // 
             // btnFacturacionProvincial
             // 
-            this.btnFacturacionProvincial.Location = new System.Drawing.Point(30, 207);
+            this.btnFacturacionProvincial.Location = new System.Drawing.Point(45, 318);
+            this.btnFacturacionProvincial.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnFacturacionProvincial.Name = "btnFacturacionProvincial";
-            this.btnFacturacionProvincial.Size = new System.Drawing.Size(172, 34);
+            this.btnFacturacionProvincial.Size = new System.Drawing.Size(258, 52);
             this.btnFacturacionProvincial.TabIndex = 3;
             this.btnFacturacionProvincial.Text = "Facturaciòn Provincial";
             this.btnFacturacionProvincial.UseVisualStyleBackColor = true;
             // 
             // btnSalir
             // 
-            this.btnSalir.Location = new System.Drawing.Point(30, 263);
+            this.btnSalir.Location = new System.Drawing.Point(45, 406);
+            this.btnSalir.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnSalir.Name = "btnSalir";
-            this.btnSalir.Size = new System.Drawing.Size(172, 35);
+            this.btnSalir.Size = new System.Drawing.Size(258, 54);
             this.btnSalir.TabIndex = 4;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // FrmMenu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(236, 338);
+            this.ClientSize = new System.Drawing.Size(354, 520);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnFacturacionProvincial);
             this.Controls.Add(this.btnFacturacionLocal);
             this.Controls.Add(this.btnFacturacionTotal);
             this.Controls.Add(this.btnGenerarLlamada);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "FrmMenu";
             this.Text = "Central Telefonica";
             this.ResumeLayout(false);

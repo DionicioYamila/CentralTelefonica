@@ -36,7 +36,7 @@ namespace CentralitaForm
         private void txtNroDestino_TextChanged(object sender, EventArgs e)
         {
             string s = ((TextBox)sender).Text;                             //MessageBox.Show(((TextBox)sender).Text);
-
+            
             if (s.Contains("Nro Destino") && s != "Nro Destino")
             {
                 ((TextBox)sender).Text = s.Remove(0, "Nro Destino".Length);
@@ -46,14 +46,15 @@ namespace CentralitaForm
             {
                 ((TextBox)sender).Text = "Nro Destino";
             }
+           
 
             if (s.IndexOf("#") == 0)
             {
-                comboBoxFranja.Enabled = true;
+                cmbBoxFranja.Enabled = true;
             }
             else
             {
-                comboBoxFranja.Enabled = false;
+                cmbBoxFranja.Enabled = false;
             }
         }
 
@@ -119,12 +120,32 @@ namespace CentralitaForm
 
         private void btnLlamar_Click(object sender, EventArgs e)
         {
-            //Llamada l = new Llamada()
+            Random rand = new Random();
+            Provincial.Franja franjas;
+
+            Enum.TryParse<Provincial.Franja>(cmbBoxFranja.SelectedValue.ToString(), out franjas);
+            Provincial p = new Provincial(txtNroOrigen.Text, franjas, rand.Next(1, 50), txtNroDestino.Text);
+            Local l = new Local(txtNroOrigen.Text, rand.Next(1, 50), txtNroDestino.Text, Convert.ToSingle(rand.NextDouble() * (5.6 - 0.5) + 0.5));
+        }
+
+        private void cmbBoxFranja_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FrmLlamador_Load(object sender, EventArgs e)
+        {
+            cmbBoxFranja.DataSource = Enum.GetValues(typeof(Provincial.Franja));
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
-            txtNroDestino.Text = string.Empty;
+            txtNroDestino.Text = string.Empty;   
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

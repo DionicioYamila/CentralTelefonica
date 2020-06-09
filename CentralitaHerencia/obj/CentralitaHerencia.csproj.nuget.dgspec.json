@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\facu3\\Desktop\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj": {}
+    "D:\\facultad\\peque\\UnoPititi\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\facu3\\Desktop\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj": {
+    "D:\\facultad\\peque\\UnoPititi\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\facu3\\Desktop\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
+        "projectUniqueName": "D:\\facultad\\peque\\UnoPititi\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
         "projectName": "CentralitaHerencia",
-        "projectPath": "C:\\Users\\facu3\\Desktop\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
+        "projectPath": "D:\\facultad\\peque\\UnoPititi\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\CentralitaHerencia.csproj",
         "packagesPath": "C:\\Users\\facu3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\facu3\\Desktop\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\obj\\",
+        "outputPath": "D:\\facultad\\peque\\UnoPititi\\centralitaDeMierda\\CentralTelefonica\\CentralitaHerencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
