@@ -7,3 +7,12 @@ C:\Users\Administrator\source\repos\CentralTelefonica\CentralitaHerencia\obj\Deb
 C:\Users\Administrator\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.AssemblyInfo.cs
 C:\Users\Administrator\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.dll
 C:\Users\Administrator\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.pdb
+C:\Users\facu3\Desktop\centralitaDeMierda\CentralTelefonica\CentralitaHerencia\bin\Debug\netstandard2.0\CentralitaHerencia.deps.json
+C:\Users\facu3\Desktop\centralitaDeMierda\CentralTelefonica\CentralitaHerencia\bin\Debug\netstandard2.0\CentralitaHerencia.dll
+C:\Users\facu3\Desktop\centralitaDeMierda\CentralTelefonica\CentralitaHerencia\bin\Debug\netstandard2.0\CentralitaHerencia.pdb
+C:\Users\facu3\Desktop\centralitaDeMierda\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\facu3\Desktop\centralitaDeMierda\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.AssemblyInfoInputs.cache
+C:\Users\facu3\Desktop\centralitaDeMierda\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.AssemblyInfo.cs
+C:\Users\facu3\Desktop\centralitaDeMierda\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\facu3\Desktop\centralitaDeMierda\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.dll
+C:\Users\facu3\Desktop\centralitaDeMierda\CentralTelefonica\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.pdb

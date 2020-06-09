@@ -1,5 +1,0 @@
-C:\Users\Administrator\source\repos\CentralTelefonica\FormsCentral\obj\Debug\FormsCentral.csprojAssemblyReference.cache
-C:\Users\Administrator\source\repos\CentralTelefonica\FormsCentral\obj\Debug\FormsCentral.Properties.Resources.resources
-C:\Users\Administrator\source\repos\CentralTelefonica\FormsCentral\obj\Debug\FormsCentral.YamiCenter.resources
-C:\Users\Administrator\source\repos\CentralTelefonica\FormsCentral\obj\Debug\FormsCentral.csproj.GenerateResource.cache
-C:\Users\Administrator\source\repos\CentralTelefonica\FormsCentral\obj\Debug\FormsCentral.csproj.CoreCompileInputs.cache
