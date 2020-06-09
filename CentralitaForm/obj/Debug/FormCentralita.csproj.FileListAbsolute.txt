@@ -12,3 +12,17 @@ C:\Users\facu3\Desktop\centralitaDeMierda\CentralTelefonica\CentralitaForm\obj\D
 C:\Users\facu3\Desktop\centralitaDeMierda\CentralTelefonica\CentralitaForm\obj\Debug\FormCentralita.csproj.CopyComplete
 C:\Users\facu3\Desktop\centralitaDeMierda\CentralTelefonica\CentralitaForm\obj\Debug\CentralitaForm.exe
 C:\Users\facu3\Desktop\centralitaDeMierda\CentralTelefonica\CentralitaForm\obj\Debug\CentralitaForm.pdb
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\obj\Debug\FormCentralita.csprojAssemblyReference.cache
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\obj\Debug\CentralitaForm.FrmLlamador.resources
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\obj\Debug\CentralitaForm.FrmMenu.resources
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\obj\Debug\CentralitaForm.Properties.Resources.resources
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\obj\Debug\FormCentralita.csproj.GenerateResource.cache
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\obj\Debug\FormCentralita.csproj.CoreCompileInputs.cache
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\obj\Debug\CentralitaForm.exe
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\obj\Debug\CentralitaForm.pdb
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\bin\Debug\CentralitaForm.exe.config
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\bin\Debug\CentralitaForm.exe
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\bin\Debug\CentralitaForm.pdb
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\bin\Debug\CentralitaHerencia.dll
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\bin\Debug\CentralitaHerencia.pdb
+D:\facultad\peque\UnoPititi\centralitaDeMierda\CentralTelefonica\CentralitaForm\obj\Debug\FormCentralita.csproj.CopyComplete

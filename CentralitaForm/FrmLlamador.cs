@@ -37,14 +37,14 @@ namespace CentralitaForm
         {
             string s = ((TextBox)sender).Text;                             //MessageBox.Show(((TextBox)sender).Text);
 
-            if (s.Contains("Nro Destino"))
+            if (s.Contains("Nro Destino") && s != "Nro Destino")
             {
-                ((TextBox)sender).Text = s.Remove(0,"Nro Destino".Length);
+                ((TextBox)sender).Text = s.Remove(0, "Nro Destino".Length);
             }
 
-            if (s == "")
+            if (s == string.Empty)
             {
-                s = "Nro Destino";
+                ((TextBox)sender).Text = "Nro Destino";
             }
 
             if (s.IndexOf("#") == 0)
@@ -119,9 +119,12 @@ namespace CentralitaForm
 
         private void btnLlamar_Click(object sender, EventArgs e)
         {
-            Llamada l = new Llamada()
+            //Llamada l = new Llamada()
         }
 
-
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            txtNroDestino.Text = string.Empty;
+        }
     }
 }
